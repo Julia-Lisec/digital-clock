@@ -40,4 +40,5 @@ body {
   height: 100%;
   padding-top: 25px;
   font-family: 'Orbitron', sans-serif;
+  border-radius: 4px;
 }
